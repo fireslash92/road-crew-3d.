@@ -1,4 +1,6 @@
-# Road Crew 3D
+# محاكي التحكم بالمعدات التعليمي (Road Crew 3D)
+
+دائرة الطرق بمحافظة البريمي
 
 A browser simulator of the heavy equipment used to build a road, from earthworks to the final asphalt rolling. Everything runs in a single `index.html` with three.js loaded from a CDN. There is no build step.
 
